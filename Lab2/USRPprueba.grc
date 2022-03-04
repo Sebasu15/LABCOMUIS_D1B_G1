@@ -1,6 +1,6 @@
 options:
   parameters:
-    author: ''
+    author: Juan Mora Santiago Tarazona
     category: '[GRC Hier Blocks]'
     cmake_opt: ''
     comment: ''
@@ -21,7 +21,7 @@ options:
     run_options: prompt
     sizing_mode: fixed
     thread_safe_setters: ''
-    title: Daniel Cerro_Andres Gomez D1A
+    title: USRP
     window_size: (1000,1000)
   states:
     bus_sink: false
